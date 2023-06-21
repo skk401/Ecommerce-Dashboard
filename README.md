@@ -1,2 +1,2 @@
-# Ecommerce-Dashboard
-Making Ecommerce dashboard for the Sellers  
+# Travel Guru
+Travel website
