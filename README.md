@@ -1,2 +1,2 @@
-# Travel Guru
-Travel website
+# E-commerce Dashboard
+Dashboard for selllers
